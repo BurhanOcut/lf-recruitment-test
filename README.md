@@ -14,10 +14,14 @@ As an interview challenge, we'd like you to apply clean architecture and SOLID p
  *  Build the project using `dotnet build`
  *  Run the tests using `dotnet test`
 
-## Objectives
+## Minimum Objectives
  * Bugs are fixed
  * Diagram for reference architecture
  * Improved repository and structure
  * Clean architecture applied
  * SOLID principles applied
 
+## Advanced Objectives
+ * Setup CI CD pipeline
+ * Containerize the solution
+ * Application running in Azure cloud
